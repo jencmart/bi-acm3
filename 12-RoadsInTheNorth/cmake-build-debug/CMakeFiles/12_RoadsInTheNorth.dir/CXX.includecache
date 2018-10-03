@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/ClionProjects/acm3/12-RoadsInTheNorth/main.cpp
+iostream
+-
+cstdlib
+-
+iostream
+-
+sstream
+-
+

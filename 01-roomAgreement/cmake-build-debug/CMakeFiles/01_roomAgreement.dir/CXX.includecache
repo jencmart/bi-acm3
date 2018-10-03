@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/CLionProjects/acm3/01-roomAgreement/main.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+iostream
+-
+unordered_map
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/01_meanArray.dir/main.cpp.o  -o 01_meanArray 

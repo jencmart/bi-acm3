@@ -1,0 +1,3 @@
+/home/jencmart/Dropbox/development/CLionProjects/acm3/03-frame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jencmart/Dropbox/development/CLionProjects/acm3/03-frame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jencmart/Dropbox/development/CLionProjects/acm3/03-frame/cmake-build-debug/CMakeFiles/03_frame.dir

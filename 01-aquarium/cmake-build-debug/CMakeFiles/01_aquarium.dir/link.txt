@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/01_aquarium.dir/main.cpp.o  -o 01_aquarium 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/ClionProjects/acm3/07-patterFind-Kacka/main.cpp
+iostream
+-
+cstring
+-
+vector
+-
+set
+-
+map
+-
+

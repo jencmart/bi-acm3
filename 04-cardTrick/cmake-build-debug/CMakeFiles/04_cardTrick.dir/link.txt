@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/04_cardTrick.dir/main.cpp.o  -o 04_cardTrick 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/02_islands.dir/main.cpp.o  -o 02_islands 

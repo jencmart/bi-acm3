@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/CLionProjects/acm3/04-battleForSilver/main.cpp
+iostream
+-
+vector
+-
+map
+-
+unordered_set
+-
+unordered_map
+-
+

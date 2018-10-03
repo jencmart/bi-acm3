@@ -1,0 +1,3 @@
+/home/jencmart/Dropbox/development/ClionProjects/acm3/07-patterFind-Kacka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jencmart/Dropbox/development/ClionProjects/acm3/07-patterFind-Kacka/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jencmart/Dropbox/development/ClionProjects/acm3/07-patterFind-Kacka/cmake-build-debug/CMakeFiles/07_patterFind_Kacka.dir

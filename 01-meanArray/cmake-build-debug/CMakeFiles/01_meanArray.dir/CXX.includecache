@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/CLionProjects/acm3/01-meanArray/main.cpp
+iostream
+-
+map
+-
+vector
+-
+set
+-
+cstdlib
+-
+stdexcept
+-
+iostream
+-
+
